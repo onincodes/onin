@@ -1,6 +1,6 @@
-# Hi, I'm Onin! 👋
+# 👋 Hi, I'm Onin!
 
-### [🖼️ My Portfolio](https://github.com/Onin-iOS/iOS-Developer-Portfolio)
+### [🖼️ My GitHub Portfolio](https://github.com/Onin-iOS/iOS-Developer-Portfolio)
 
 ###  About me
 
