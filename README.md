@@ -1,4 +1,4 @@
-# 👋 Hello there, I'm Onin!
+# 👋 Hi, I'm Onin!
 
 ### [🖼️ My GitHub Portfolio](https://github.com/Onin-iOS/iOS-Developer-Portfolio)
 
@@ -14,7 +14,7 @@
 ### Skills
 
 * Design Thinking
-* Languages: Swift
+* Language: Swift
 * Frameworks: SwiftUI, MapKit, UIKit
 * Database: Firebase
 * Advertisements: Google AdMob
