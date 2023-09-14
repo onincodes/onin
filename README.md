@@ -1,6 +1,8 @@
-# 👋 Hi, I'm Onin!
+# 👋 Hello there, I'm Onin!
 
 ### [🖼️ My GitHub Portfolio](https://github.com/Onin-iOS/iOS-Developer-Portfolio)
+
+***
 
 ###  About me
 
@@ -18,5 +20,9 @@
 * Advertisements: Google AdMob
 * Tools: Xcode 
 
-[![Instagram]([https://imgur.com/IBRqV3I])]([Link URL](https://www.instagram.com/oninizer/)https://www.instagram.com/oninizer/)
+---
+### Socials 
 
+[![Instagram](https://i.imgur.com/HeVBU6h.png)](https://www.instagram.com/oninizer/) 
+
+![Email](https://i.imgur.com/WteCzm6.pngL)
