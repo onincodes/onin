@@ -18,6 +18,7 @@
 * Frameworks: SwiftUI, MapKit, UIKit
 * Database: Firebase
 * Advertisements: Google AdMob
+* Dependency Management: Swift Package Manager (SPM)
 * Tools: Xcode 
 
 ---
