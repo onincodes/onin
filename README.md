@@ -4,7 +4,7 @@
 
 ***
 
-###  About me
+###  About
 
 * 🎨 I'm a Graphic Designer/UX Designer who fell in love with coding and am now a self-taught iOS Developer.
 * 🧑🏻‍💻 I started learning Swift in January 2023 and finished designing and developing my first app, which I published on the App Store on September 2, 2023.
