@@ -19,7 +19,7 @@
 * Database: Firebase
 * Advertisements: Google AdMob
 * Dependency Management: Swift Package Manager (SPM)
-* Tools: Xcode 
+* Tools: Xcode, Git and Version Control 
 
 ---
 ### Socials 
