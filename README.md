@@ -14,7 +14,7 @@
 
 * Design Thinking
 * Language: Swift
-* Frameworks: SwiftUI, MapKit, UIKit
+* Frameworks: SwiftUI, MapKit, CoreData, UIKit
 * Database: Firebase
 * Advertisements: Google AdMob
 * Dependency Management: Swift Package Manager (SPM)
