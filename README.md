@@ -6,7 +6,7 @@
 
 ###  About
 
-* 🎨 I'm a Graphic Designer/UX Designer who fell in love with coding and am now a self-taught iOS Developer.
+* 🎨 I'm a Creative Professional who fell in love with coding and am now a self-taught iOS Developer.
 * 🎯 My GOAL is to make people's lives easier, one app at a time.
 * 🙏 I'm excited to continue learning in the world of iOS development and reach my full potential.
 
