@@ -6,9 +6,7 @@
 
 ###  About
 
-* 🎨 I'm a Creative Professional who fell in love with coding and am now a self-taught iOS Developer.
-* 🎯 My GOAL is to make people's lives easier, one app at a time.
-* 🙏 I'm excited to continue learning in the world of iOS development and reach my full potential.
+I'm a creative professional who has developed a passion for coding. Now, I'm a self-taught iOS developer with a strong emphasis on SwiftUI. I've successfully published three apps on the App Store, showcasing my dedication to mastering iOS development. Eager to continue learning and pushing the boundaries of what I can achieve in the dynamic field of app development.
 
 ### Skills
 
