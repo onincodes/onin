@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Onin!
+# 👋 Hello, I'm Onin!
 
 ### [🖼️ My GitHub Portfolio](https://github.com/Onin-iOS/iOS-Developer-Portfolio)
 
