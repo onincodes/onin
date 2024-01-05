@@ -6,9 +6,9 @@
 
 ###  About
 
-I'm a creative professional who discovered a love for coding. Currently, I'm a self-taught iOS developer, focusing on SwiftUI. Having successfully launched three apps on the App Store, I demonstrate my commitment to mastering iOS development.
+I am a creative professional who found a passion for coding. Now, I am a self-taught iOS developer with three successful apps published on the App Store. With my creative background, you can expect an app that is both well-crafted and imaginative.  
 
-Now, as an independent iOS developer contractor, I'm eagerly accepting new clients and projects.
+Operating as an independent iOS developer contractor, I eagerly welcome new clients and projects, ready to infuse creativity into every development endeavor.
 
 ### Skills
 
