@@ -8,7 +8,6 @@
 
 I am a creative professional who found a passion for coding. Now, I am a self-taught iOS developer with three successful apps published on the App Store. With my creative background, you can expect an app that is both well-crafted and imaginative.  
 
-Operating as an independent iOS developer contractor, I eagerly welcome new clients and projects, ready to infuse creativity into every development endeavor.
 
 ### Skills
 
