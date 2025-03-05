@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/rCfl63c.png" alt="Onin Sibua">
+
 # 👋 Hello, I'm Onin!
 
 ### [🖼️ My GitHub Portfolio](https://github.com/Onin-iOS/iOS-Developer-Portfolio)
