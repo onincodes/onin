@@ -8,7 +8,7 @@
 
 ###  About
 
-I’m a creative professional who discovered a passion for coding. As a self-taught iOS developer, I’ve published three apps on the App Store. My creative background allows me to build apps that are both thoughtfully designed and innovative.
+I’m a marketing professional with a creative background who discovered a passion for coding. As a self-taught iOS developer, I’ve published three apps on the App Store. My creativity allows me to design and develop apps that are both innovative and user-friendly.
 
 
 ### Skills
