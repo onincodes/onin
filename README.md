@@ -2,7 +2,7 @@
 
 # Hello, I'm Onin! 👋 • Frontend Developer | React + Tailwind CSS
 
-### [🧑🏻‍💻 My Portfolio](https://onincodes.com)
+## [🧑🏻‍💻 My Portfolio](https://onincodes.com)
 
 ***
 
