@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/rCfl63c.png" alt="Onin Sibua">
 
-<h1>👋 Hello, I'm Onin!</h1>
-<h2>Frontend Developer | React + Tailwind CSS</h2>
+#👋 Hello, I'm Onin!
+Frontend Developer | React + Tailwind CSS
 
 ### [🧑🏻‍💻 My Portfolio](https://onincodes.com)
 
