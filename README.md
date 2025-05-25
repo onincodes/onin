@@ -2,28 +2,20 @@
 
 # 👋 Hello, I'm Onin!
 
-### [🖼️ My GitHub Portfolio](https://github.com/Onin-iOS/iOS-Developer-Portfolio)
+### [🧑🏻‍💻 My Portfolio](https://onincodes.com)
 
 ***
 
 ###  About
 
-I’m a marketing professional with a creative background who discovered a passion for coding. As a self-taught iOS developer, I’ve published three apps on the App Store. My creativity allows me to design and develop apps that are both innovative and user-friendly.
+I’m a creative professional who found a passion in coding, blending my design background with technical skills to build clean, user-friendly digital experiences. I began as a self-taught iOS developer and published three apps on the App Store. Today, I specialize in frontend development using React and Tailwind CSS, with a strong focus on UI/UX.
 
 
-### Skills
+### Technical Skills
 
-* Design Thinking
-* Language: Swift
-* Frameworks: SwiftUI, MapKit, CoreData, UIKit
-* Database: Firebase
-* Advertisements: Google AdMob
-* Dependency Management: Swift Package Manager (SPM)
-* Tools: Xcode, Git and Version Control 
+• Languages & Frameworks: HTML, CSS, JavaScript, React, Tailwind CSS, Swift, SwiftUI
+• Tools & Workflow: VS Code, Git & GitHub, Vite, Responsive Design, Firebase, REST API
+• Design: UI/UX Design, Wireframing, Branding, Figma, Adobe Creative Suite
 
 ---
-### Socials 
 
-[![Instagram](https://i.imgur.com/HeVBU6h.png)](https://www.instagram.com/oninizer/) 
-
-![Email](https://i.imgur.com/WteCzm6.pngL)
