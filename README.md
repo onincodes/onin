@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/rCfl63c.png" alt="Onin Sibua">
 
-# 👋 Hello, I'm Onin! • Frontend Developer | React + Tailwind CSS
+# Hello, I'm Onin! 👋 • Frontend Developer | React + Tailwind CSS
 
 ### [🧑🏻‍💻 My Portfolio](https://onincodes.com)
 
