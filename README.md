@@ -14,7 +14,9 @@ I’m a creative professional who found a passion in coding, blending my design 
 ### Technical Skills
 
 • Languages & Frameworks: HTML, CSS, JavaScript, React, Tailwind CSS, Swift, SwiftUI
+<br/>
 • Tools & Workflow: VS Code, Git & GitHub, Vite, Responsive Design, Firebase, REST API
+<br/>
 • Design: UI/UX Design, Wireframing, Branding, Figma, Adobe Creative Suite
 
 ---
