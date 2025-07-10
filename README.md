@@ -9,7 +9,7 @@
 
 ###  About
 
-Self-taught iOS dev turned full-stack developer. Built and published 3 apps in 2023, now focused on React, Tailwind CSS, Ruby on Rails, and PostgreSQL. I love building clean UIs and solid backends — always learning, always shipping.
+Self-taught iOS developer turned full-stack developer, focused on React, Tailwind CSS, Ruby on Rails, and PostgreSQL. I love building clean user interfaces and robust backends — always learning, always shipping.
 
 
 ### Technical Skills
