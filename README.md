@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/rCfl63c.png" alt="Onin Sibua">
 
 # Hello, I'm Onin! 👋 Software Developer 
-## React • Next JS • React Native • Tailwind CSS • Ruby on Rails • PostgreSQL | UI/UX Design
+## React • Next JS • React Native • TypeScript • Tailwind CSS • Ruby on Rails • PostgreSQL | UI/UX Design
 
 ## [🧑🏻‍💻 My Portfolio](https://onincodes.com)
 
