@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/rCfl63c.png" alt="Onin Sibua">
 
 # Hello, I'm Onin! 👋 Software Developer 
-## React • Tailwind CSS • Ruby on Rails • PostgreSQL | UI/UX Design
+## React • Next JS • React Native • Tailwind CSS • Ruby on Rails • PostgreSQL | UI/UX Design
 
 ## [🧑🏻‍💻 My Portfolio](https://onincodes.com)
 
@@ -14,7 +14,7 @@ Self-taught iOS developer turned full-stack developer, focused on React, Tailwin
 
 ### Technical Skills
 
-• Languages & Frameworks: HTML, CSS, JavaScript, React, Tailwind CSS, Ruby on Rails, Swift, SwiftUI, PostgreSQL
+• Languages & Frameworks: HTML, CSS, JavaScript, React, Next JS, React Native, Tailwind CSS, Ruby on Rails, Swift, SwiftUI, PostgreSQL
 <br/>
 • Tools & Workflow: VS Code, Xcode Git & GitHub, Vite, Responsive Design, Firebase, REST API
 <br/>
